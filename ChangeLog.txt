@@ -1,0 +1,18 @@
+
+
+
+Po dolocenem času se luči samodejno ugasnejo. (shutdowntimer)
+
+Po 3 pritiskih na ST/rept zacnejo luči utripat. med tem lahko pritisneš cifro da shraniš trenutno barvo na to cifro. (saving color to digit)
+
+Če so luči ugasnjene in preteče 30 minut se barva resetira na barvo shranjeno na 0 digit
+
+Če je selected digit == 0 shutdown timer nima učinka
+
+
+
+
+
+3.5 Dodana reverse rainow in tiktok colorful world
+  -s pritiskom func gumba v manj kot 3 sekundah med sabo se menjajo efekti. 
+  - z puscicami up in down lahko spreminjas hitrost efektov
